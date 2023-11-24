@@ -1,0 +1,30 @@
+body{
+    background-color:white;
+}
+header{
+    padding:10px;
+    background-color:#63266C;
+}
+.NavigHeader{
+    margin-left:12px;
+}
+.NavigHeaderDonate{
+    margin-left:-9px;
+}
+main{
+    text-align: center;
+    font-family: comfortaa;
+}
+main img{
+    size:120px;
+}
+footer{
+    padding:10px;
+    background-color:#63266C;
+}
+footer img{
+    margin-left:12px;
+}
+li{
+    font-size: 20px;
+}
